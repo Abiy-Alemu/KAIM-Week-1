@@ -1,0 +1,8 @@
+[user]
+	name = abiy
+	email = abiy.alemu@aait.edu.et
+[http]
+	posBuffer = 157286400
+	postBuffer = 524288000
+[core]
+	autocrlf = false
